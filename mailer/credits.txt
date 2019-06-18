@@ -1,0 +1,5 @@
+//
+// Il s'agis d'une classe trouvé sur internet permettant d'envoyer des emails
+//
+// Voici le lien : https://github.com/PHPMailer/PHPMailer
+//
